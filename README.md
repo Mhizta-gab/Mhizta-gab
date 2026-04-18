@@ -55,13 +55,13 @@ const developer = {
 -  &nbsp;Always exploring the intersection of **Web3 Ã— AI Ã— Clean UX**
 
 <details>
- <summary><h3>ðŸ‘¨â€ðŸ’» My Coding Journey</h3></summary>
+ <summary><h3>» My Coding Journey</h3></summary>
  <br/>
  I started my journey as a curious frontend developer, obsessing over pixel-perfect interfaces and smooth user experiences. HTML, CSS, and JavaScript were my first languages â€” and React quickly became my home.
  
  But curiosity doesn't stop at the browser. I pushed into TypeScript, then Next.js, and kept asking: <em>what's on the other side of the API?</em> That question led me into backend development, and soon after, into the world of blockchain â€” specifically Cardano's Aiken, a smart contract language that blends functional elegance with on-chain power.
  
- Then came AI. The explosion of LLMs opened a new frontier â€” building AI-powered applications, not just using them. That's where I find myself today: at the intersection of frontend craft, decentralized systems, and machine intelligence.
+ Then came AI. The explosion of LLMs opened a new frontier  building AI-powered applications, not just using them. That's where I find myself today: at the intersection of frontend craft, decentralized systems, and machine intelligence.
  
  Still building. Still shipping. Always learning.
 </details>
@@ -141,8 +141,7 @@ const developer = {
 
 <div align="center">
 
-*"Build things that matter. Ship things that last."* ðŸš€
-
+*"Build things that matter. Ship things that last."* 
 </div>
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=130&section=footer)](https://github.com/Mhizta-gab)
